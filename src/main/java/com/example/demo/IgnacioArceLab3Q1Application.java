@@ -12,8 +12,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class IgnacioArceLab3Q1Application {
 
 	public static void main(String[] args) {
-
-		
 		SpringApplication.run(IgnacioArceLab3Q1Application.class, args);
 	}
 	
